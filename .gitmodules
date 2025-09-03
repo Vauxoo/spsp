@@ -1,0 +1,4 @@
+[submodule "spsp"]
+	path = spsp
+	url = git@git.vauxoo.com:vauxoo/spsp.git
+	branch = 18.0
