@@ -1,1 +1,1 @@
-SPSP.git
+SPSP
